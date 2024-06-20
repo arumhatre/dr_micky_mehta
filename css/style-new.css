@@ -181,7 +181,12 @@ header{background:#f2faff}
 /* Pillers slider css*/
 /*==========================================*/
 .four_piiler_section{
-  padding-top: 50px;
+  padding-top: 40px;
+}
+.sub_para_piler_head{
+  font-size: 18px;
+  line-height: normal;
+  font-weight: 500;
 }
 .piller-sec-para{display:inline-flex;color:#212121;font-size:18px;line-height:normal;font-weight:500;align-items:center}
 .piller-sec-para span{color:#39aeb7;font-size:45px;font-weight:700;padding-right:10px}
