@@ -1,4 +1,5 @@
 @import url('../fonts/inter.css');
+@import url('../fonts/barlow_condensed.css');
 html { font-family: 'Inter', sans-serif; }
 @supports (font-variation-settings: normal) {
   html { font-family: 'Inter var', sans-serif; }
