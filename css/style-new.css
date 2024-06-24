@@ -111,18 +111,18 @@ header{background:#f2faff}
 /*==========================================*/
 
 .banner-section-cls{background:url(../images/banner_bg.webp) bottom center no-repeat;background-size:cover}
-.banner_h1_heading{margin-bottom:20px;font-family:"Barlow Condensed",sans-serif;font-weight:800;font-size:55px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
+.banner_h1_heading{margin-bottom:20px;font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:55px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
 .banner_h2_heading{margin-bottom:0;font-family:"Barlow Condensed",sans-serif;color:#f8ad42;font-weight:200;font-size:50px;line-height:normal;text-transform:uppercase}
 .banner_h3_heading{padding:5px 70px 5px 10px;margin-bottom:0;display:ruby;font-family:"Barlow Condensed",sans-serif;color:#fff;font-weight:500;font-size:35px;text-transform:uppercase;background:#49b8c1;background:linear-gradient(90deg,#49b8c1 48%,rgba(255,255,255,0) 100%)}
 .banner_h4_heading{padding-bottom:10px;display:ruby;font-size:26px;color:#f8ad42;font-weight:400;line-height:normal;border-bottom:1px solid #49b8c1}
 @media (max-width:1440px){
-.banner_h1_heading{margin-bottom:20px;font-family:"Barlow Condensed",sans-serif;font-weight:800;font-size:45px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
+.banner_h1_heading{margin-bottom:20px;font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:45px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
 .banner_h2_heading{margin-bottom:0;font-family:"Barlow Condensed",sans-serif;color:#f8ad42;font-weight:200;font-size:40px;line-height:normal;text-transform:uppercase}
 .banner_h3_heading{padding:5px 70px 5px 10px;margin-bottom:0;display:ruby;font-family:"Barlow Condensed",sans-serif;color:#fff;font-weight:500;font-size:30px;text-transform:uppercase;background:#49b8c1;background:linear-gradient(90deg,#49b8c1 48%,rgba(255,255,255,0) 100%)}
 .banner_h4_heading{padding-bottom:10px;display:ruby;font-size:21px;color:#f8ad42;font-weight:400;line-height:normal;border-bottom:1px solid #49b8c1}
 }
 @media (max-width:1024px){
-.banner_h1_heading{margin-bottom:20px;font-family:"Barlow Condensed",sans-serif;font-weight:800;font-size:30px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
+.banner_h1_heading{margin-bottom:20px;font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:30px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
 .banner_h2_heading{margin-bottom:0;font-family:"Barlow Condensed",sans-serif;color:#f8ad42;font-weight:200;font-size:26px;line-height:normal;text-transform:uppercase}
 .banner_h3_heading{padding:5px 70px 5px 10px;margin-bottom:0;display:ruby;font-family:"Barlow Condensed",sans-serif;color:#fff;font-weight:500;font-size:21px;text-transform:uppercase;background:#49b8c1;background:linear-gradient(90deg,#49b8c1 48%,rgba(255,255,255,0) 100%)}
 .banner_h4_heading{padding-bottom:10px;display:ruby;font-size:18px;color:#f8ad42;font-weight:400;line-height:normal;border-bottom:1px solid #49b8c1}
@@ -130,13 +130,13 @@ header{background:#f2faff}
 }
 @media (max-width:600px){
 .banner-section-cls{background:url(../images/banner_bg_mob.webp) bottom center no-repeat;background-size:cover}
-.banner_h1_heading{margin-bottom:15px;font-family:"Barlow Condensed",sans-serif;font-weight:800;font-size:32px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
+.banner_h1_heading{margin-bottom:15px;font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:32px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
 .banner_h2_heading{padding-top:20px;margin-bottom:0;font-family:"Barlow Condensed",sans-serif;color:#f8ad42;font-weight:200;font-size:30px;line-height:normal;text-transform:uppercase}
 .banner_h4_heading{padding-bottom:8px;display:ruby;font-size:18px;color:#f8ad42;font-weight:400;line-height:normal;border-bottom:1px solid #49b8c1}
 .bfit_plus_logo{width:50%}
 }
 @media (max-width:390px){
-.banner_h1_heading{margin-bottom:15px;font-family:"Barlow Condensed",sans-serif;font-weight:800;font-size:28px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
+.banner_h1_heading{margin-bottom:15px;font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:28px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
 .banner_h2_heading{padding-top:20px;margin-bottom:0;font-family:"Barlow Condensed",sans-serif;color:#f8ad42;font-weight:200;font-size:26px;line-height:normal;text-transform:uppercase}
 }
 
