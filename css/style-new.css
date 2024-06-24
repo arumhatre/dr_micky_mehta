@@ -136,6 +136,11 @@ header{background:#f2faff}
 .bfit_plus_logo{width:50%}
 }
 @media (max-width:390px){
+.banner_h1_heading{margin-bottom:15px;font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:34px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
+.banner_h2_heading{padding-top:20px;margin-bottom:0;font-family:"Barlow Condensed",sans-serif;color:#f8ad42;font-weight:200;font-size:30px;line-height:normal;text-transform:uppercase}
+}
+
+@media (max-width:375px){
 .banner_h1_heading{margin-bottom:15px;font-family:"Barlow Condensed",sans-serif;font-weight:600;font-size:28px;color:#4ab7c0;line-height:normal;text-transform:uppercase}
 .banner_h2_heading{padding-top:20px;margin-bottom:0;font-family:"Barlow Condensed",sans-serif;color:#f8ad42;font-weight:200;font-size:26px;line-height:normal;text-transform:uppercase}
 }
