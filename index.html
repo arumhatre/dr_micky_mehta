@@ -575,7 +575,6 @@
   })
   </script>
   <script>
-  $(document).ready(function() {  
   var owl = $(".screenshot_slider").owlCarousel({
     loop: !0,
     responsiveClass: !0,
@@ -603,13 +602,8 @@
       }
     }
   });
-   // Add role="button" to navigation elements
-    $(".owl-nav .owl-prev").attr("role", "button");
-    $(".owl-nav .owl-next").attr("role", "button");
-  });
   </script>
   <script>
-  $(document).ready(function() {  
   var $homeSlider = $("#process_slider, #factor_slider, #pillars_slider, #drmcky_slider");
   $(window).resize(function() {
     showHomeSlider();
@@ -648,18 +642,24 @@
         }
       }
     });
-
   }
 
   function destroyHomeSlider() {
     $homeSlider.trigger("destroy.owl.carousel").removeClass("owl-carousel");
   }
-
-   // Add role="button" to navigation elements
-    $(".owl-nav .owl-prev").attr("role", "button");
-    $(".owl-nav .owl-next").attr("role", "button");
-  });
   </script>
+  <!-- <script>
+  $(function() {
+    $(".popup-youtube, .popup-vimeo").magnificPopup({
+      disableOn: 700,
+      type: "iframe",
+      mainClass: "mfp-fade",
+      removalDelay: 160,
+      preloader: !1,
+      fixedContentPos: !1
+    })
+  });
+  </script> -->
   <script>
   $('.carousel').carousel({
     interval: 3500
