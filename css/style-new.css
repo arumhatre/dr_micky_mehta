@@ -40,7 +40,7 @@ p{margin-bottom:0;color:#212121;font-weight:400}
 @media (max-width:768px){
 .main-all-heading{font-size:24px;text-align:center;text-align:center;line-height:30px}
 }
-.btn-link:hover{color:#39aeb7}
+.btn-link:hover{color:#212121;}
 .owl-carousel .owl-item img{width:auto}
 .owl-carousel .owl-dots{display:none}
 header{background:#49b8c1;min-height:60px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
@@ -334,7 +334,7 @@ header{background:#f2faff}
 .faq_sec_pad{padding-top:50px;padding-bottom:50px}
 .faq-box-cls{padding-bottom:20px;margin-bottom:20px;border-bottom:1px solid #b1b1b1}
 .panel-title{margin-bottom:0;text-decoration:none!important}
-.panel-title a{text-decoration:none!important;color:#4ab7c0;font-size:21px;font-weight:600;line-height:24px;padding:0}
+.panel-title a{text-decoration:none!important;color:#212121;font-size:21px;font-weight:600;line-height:24px;padding:0}
 .panel-title a.collapsed{text-decoration:none!important;color:#212121;font-size:21px;font-weight:400;line-height:24px;padding:0}
 .panel-title a span{padding:10px;margin-right:10px;background:linear-gradient(359deg,#03619a 0,#047dc7 100%);color:#fff;border-radius:50%;font-size:18px;font-weight:600}
 .panel-title a.collapsed span{color:#fff;background:#000;font-weight:500}
@@ -343,7 +343,7 @@ header{background:#f2faff}
 .para-faq{padding:15px 0 0 0;font-size:16px;color:#212121}
 .panel-title .btn-link:focus{box-shadow:none}
 @media screen and (max-width:600px){
-.panel-title a{width:300px;text-decoration:none!important;color:#39aeb7;font-size:16px;font-weight:600;line-height:21px;padding:0}
+.panel-title a{width:300px;text-decoration:none!important;color:#212121;font-size:16px;font-weight:600;line-height:21px;padding:0}
 .panel-title a.collapsed{text-decoration:none!important;color:#212121;font-size:16px;font-weight:500;line-height:21px;padding:0}
 .para-faq{padding:10px 0 0 0;font-size:16px;color:#636363}
 .faq-box-cls{padding-bottom:15px;margin-bottom:15px;border-bottom:1px solid #b1b1b1}
