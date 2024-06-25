@@ -284,6 +284,10 @@ header{background:#f2faff}
 .box_program_offring{text-align:center;padding:20px 40px;background-color:#fff;border-bottom:5px solid #49b8c1;box-shadow:0 2px 8px rgb(171 171 171 / 30%)}
 #process_slider .box_program_offring img{margin:auto;width:80px;margin-bottom:10px}
 .box_program_offring p{line-height:normal;font-size:18px;font-weight:500}
+@media (max-width:1600px){
+    .box_program_offring p{line-height:normal;font-size:16px;font-weight:500}
+}
+
 @media (max-width:1366px){
 #process_slider .box_program_offring img{margin:auto;width:100px;margin-bottom:10px}
 }
