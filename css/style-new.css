@@ -43,10 +43,10 @@ p{margin-bottom:0;color:#212121;font-weight:400}
 .btn-link:hover{color:#212121;}
 .owl-carousel .owl-item img{width:auto}
 .owl-carousel .owl-dots{display:none}
-header{background:#3dabb4;min-height:60px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
-.headerno-cls{margin-bottom:0;line-height:normal; font-weight: 900; text-shadow: 2px 0px #797979;}
-.head-main-tel{color:#fff;font-weight:900;}
-.head-main-tel:hover{color:#fff;font-weight:900;}
+header{background:#57b8c0;min-height:60px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
+.headerno-cls{margin-bottom:0;line-height:normal; font-weight: 500;color: #212121}
+.head-main-tel{color:#212121;font-weight:600;}
+.head-main-tel:hover{color:#212121;}
 @media (max-width:600px){
 header{background:#f2faff}
 }
