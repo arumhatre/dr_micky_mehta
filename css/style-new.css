@@ -44,9 +44,9 @@ p{margin-bottom:0;color:#212121;font-weight:400}
 .owl-carousel .owl-item img{width:auto}
 .owl-carousel .owl-dots{display:none}
 header{background:#57b8c0;min-height:60px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}
-.headerno-cls{margin-bottom:0;line-height:normal; font-weight: 500;color: #ffffff}
-.head-main-tel{color:#ffffff;font-weight:600;}
-.head-main-tel:hover{color:#ffffff;}
+.headerno-cls{margin-bottom:0;line-height:normal; font-weight: 500;color: #212121; font-size: 24px; padding-top: 14px}
+.head-main-tel{color:#212121;font-weight:700;}
+.head-main-tel:hover{color:#212121;}
 @media (max-width:600px){
 header{background:#f2faff}
 }
