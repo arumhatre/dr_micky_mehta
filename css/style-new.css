@@ -400,6 +400,9 @@ header{background:#f2faff}
 }
 @media (max-width:600px){
 .real_result_sec_pad{padding-top:0;padding-bottom:0}
+.bfit_img_logo{
+    width: 120px !important;
+}
 }
 
 
