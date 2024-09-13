@@ -307,7 +307,8 @@ header{background:#f2faff}
 /*==========================================*/
 /* Key points css*/
 /*==========================================*/
-.Program_offring_sec{paddiing-bottom:50px}
+.Program_offring_sec{paddiing-bottom:50px;}
+.bg_other_program_css{ }
 .key_heading_css{font-size:16px;color:#212121;line-height:20px;margin-bottom:0}
 #key_action_slider{display:none;text-align:left}
 #key_action_slider .owl-item img{display:inline!important}
@@ -316,6 +317,27 @@ header{background:#f2faff}
 .key_icon_box p{margin-left:0;margin-bottom:0;display:flex}
 .key_icon_box p span{margin:auto 5px auto 12px;color:#212121}
 .key_icon_box p span b{font-size:21px;font-weight:500}
+
+.headign_sub_for_befit_our_sec{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 26px;
+    font-weight: 700;
+    color: #212121;
+    line-height: normal;
+}
+
+.headign_sub_for_befit_our_sec span{
+    color: #39aeb7;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.img_logo_bfit_hr_line{
+   border-bottom: 1px solid #39aeb7;
+}
+
 @media (max-width:1024px){
 #key_action_slider .owl-item .item{transform:translate3d(0,0,0);padding:30px 30px 20px}
 #key_action_slider .owl-nav{text-align:center!important;margin-top:15px;top:0;right:0;position:relative;display:block}
@@ -328,6 +350,29 @@ header{background:#f2faff}
 @media (max-width:600px){
 .key_icon_box img{width:40px;height:40px}
 }
+
+
+/*==========================================*/
+/* Before After Slider css*/
+/*==========================================*/
+/*.real_result_sec_pad{padding-top:50px;padding-bottom:50px}*/
+.ourtreatment_slider .owl-item{padding:0 10px; display: inline-flex;}
+.ourtreatment_slider .owl-dots{display:none}
+@media screen and (max-width:1920px) and (min-width:850px){
+.ourtreatment_slider .owl-next,.ourtreatment_slider .owl-prev{position:absolute;top:-5px;height:100%}
+.ourtreatment_slider .owl-prev{left:-10px}
+.ourtreatment_slider .owl-next{right:-10px}
+}
+@media (max-width:850px){
+.ourtreatment_slider .owl-nav{text-align:center!important;margin-top:15px;top:0;right:0;position:relative}
+.ourtreatment_slider .owl-nav button{font-size:30px!important;margin:0 6px;color:#000!important}
+.ourtreatment_slider .owl-item{padding:0}
+}
+@media (max-width:600px){
+.real_result_sec_pad{padding-top:0;padding-bottom:0}
+}
+
+
 
 /*==========================================*/
 /* FAQ css*/
