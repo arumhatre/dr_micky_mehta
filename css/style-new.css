@@ -154,6 +154,19 @@ header{background:#f2faff}
 .about_bg_sec{padding-top:5px;padding-bottom:5px;font-weight:600;color:#212121;font-size:18px;margin-bottom:0;text-align:center;line-height:normal;background:radial-gradient(circle,rgba(52,176,176,.7) 0,rgba(255,255,255,0) 64%)}
 .about_para_sec{margin-top:10px;text-align:center;font-size:16px;line-height:normal}
 
+@media (max-width:600px){
+    .about_bg_sec {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: 600;
+    color: #212121;
+    font-size: 18px;
+    margin-bottom: 0;
+    text-align: center;
+    line-height: normal;
+    background: radial-gradient(circle, rgb(52 176 176 / 32%) 0, rgba(255, 255, 255, 0) 98%);
+}
+}
 
 /*==========================================*/
 /* what Chornic obesity css*/
@@ -349,6 +362,23 @@ header{background:#f2faff}
 }
 @media (max-width:600px){
 .key_icon_box img{width:40px;height:40px}
+.key_icon_box p span b{font-size:18px;font-weight:500}
+.headign_sub_for_befit_our_sec{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 700;
+    color: #212121;
+    line-height: normal;
+}
+.headign_sub_for_befit_our_sec span{
+    color: #39aeb7;
+    font-size: 21px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
 }
 
 
